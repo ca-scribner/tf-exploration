@@ -1,6 +1,7 @@
 numpy
 pandas
 tensorflow
+tensorflow-datasets
 scikit-learn
 scikit-optimize
 matplotlib
